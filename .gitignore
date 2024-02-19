@@ -1,0 +1,11 @@
+# File sementara
+*~
+
+# File build
+/build/
+/dist/
+
+# File editor
+.vscode/
+.idea/
+*.swp
